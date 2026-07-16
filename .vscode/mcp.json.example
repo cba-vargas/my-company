@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "project-files": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "${workspaceFolder}"]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "open-southeners.laravel-pint",
+    "xdebug.php-debug",
+    "bmewburn.vscode-intelephense-client",
+    "bradlc.vscode-tailwindcss",
+    "ms-azuretools.vscode-docker"
+  ]
+}
