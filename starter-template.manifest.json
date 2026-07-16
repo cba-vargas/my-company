@@ -1,0 +1,43 @@
+{
+  "name": "Laravel 12 React 19 Docker Starter Template",
+  "generated_at": "2026-07-15",
+  "runtime": {
+    "php": "8.3",
+    "node": "22",
+    "laravel": "12",
+    "react": "19",
+    "tailwindcss": "4",
+    "mysql": "8.4",
+    "redis": "7",
+    "nginx": "1.30.3",
+    "vite": "8",
+    "pest": "4",
+    "mailpit": "1.30.3",
+    "phpmyadmin": "5.2.3"
+  },
+  "services": [
+    "app",
+    "nginx",
+    "node",
+    "mysql",
+    "redis",
+    "mailpit",
+    "phpmyadmin"
+  ],
+  "quality": [
+    "eslint",
+    "prettier",
+    "editorconfig",
+    "pint",
+    "pest",
+    "github-actions"
+  ],
+  "ai": [
+    "copilot",
+    "claude-code",
+    "codex",
+    ".ai",
+    "mcp-ready"
+  ],
+  "note": "Dependency lock files are generated on first setup and should then be committed."
+}

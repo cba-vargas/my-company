@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[php]": {
+    "editor.defaultFormatter": "open-southeners.laravel-pint"
+  },
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "tailwindCSS.experimental.configFile": "resources/css/app.css"
+}
