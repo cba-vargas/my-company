@@ -1,0 +1,20 @@
+<svg id="bnr_tour01" xmlns="http://www.w3.org/2000/svg" width="640" height="260" viewBox="0 0 640 260">
+  <g id="bnr_tour01-2" data-name="bnr_tour01">
+    <path id="Rectangle_7162" data-name="Rectangle 7162" d="M10,0H640a0,0,0,0,1,0,0V260a0,0,0,0,1,0,0H10A10,10,0,0,1,0,250V10A10,10,0,0,1,10,0Z" fill="#0562c1"/>
+    <g id="Group_18606" data-name="Group 18606" transform="translate(-405.529 -3981.529)">
+      <circle id="Ellipse_213" data-name="Ellipse 213" cx="46" cy="46" r="46" transform="translate(439.529 4065.529)" fill="#a9d8ff"/>
+    </g>
+    <g id="Group_18638" data-name="Group 18638" transform="translate(-161 -4109)">
+      <text id="空港見学のご予約はこちら" transform="translate(310 4262)" fill="#fff" font-size="26" font-family="HeiseiMaruGoStd-W4, Heisei Maru Gothic Std" letter-spacing="0.05em"><tspan x="0" y="0">空港見学のご予約はこちら</tspan></text>
+      <text id="CONTACT" transform="translate(310 4224)" fill="#fff" font-size="14" font-family="HeiseiMaruGoStd-W4, Heisei Maru Gothic Std" letter-spacing="0.1em"><tspan x="0" y="0">CONTACT</tspan></text>
+    </g>
+    <path id="Path_22160" data-name="Path 22160" d="M68.585,284.364a1.064,1.064,0,0,1-.343.821l-10.077,9.733a1.2,1.2,0,0,1-1.641-.005,1.06,1.06,0,0,1,.005-1.556l8.083-7.856H18.161a1.1,1.1,0,1,1,0-2.2H64.691l-8.146-7.921a1.06,1.06,0,0,1,0-1.556,1.218,1.218,0,0,1,1.646,0l10.056,9.733A1.1,1.1,0,0,1,68.585,284.364Z" transform="translate(532 -154.5)" fill="#fff"/>
+  </g>
+  <g id="Group_19114" data-name="Group 19114" transform="translate(2691.5 -476.824)">
+    <path id="Rectangle_7449" data-name="Rectangle 7449" d="M0,0H46a0,0,0,0,1,0,0V32a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V0A0,0,0,0,1,0,0Z" transform="translate(-2634 595.824)" fill="#fff"/>
+    <g id="Group_19109" data-name="Group 19109" transform="translate(-2635.5 581.824)">
+      <path id="Path_23149" data-name="Path 23149" d="M46.1,8.218H40.483V4.765A2.178,2.178,0,0,0,38.318,2.6H35.69a2.178,2.178,0,0,0-2.165,2.165v3.4H20.435v-3.4A2.178,2.178,0,0,0,18.27,2.6H15.642a2.178,2.178,0,0,0-2.165,2.165v3.4H7.86a5.356,5.356,0,0,0-5.36,5.36V45.994a5.356,5.356,0,0,0,5.36,5.36H46.049a5.356,5.356,0,0,0,5.36-5.36V13.526A5.3,5.3,0,0,0,46.1,8.218Zm0,40.147H7.86a2.31,2.31,0,0,1-2.319-2.319v-25.3H48.368v25.3A2.266,2.266,0,0,1,46.1,48.365Z" transform="translate(-2.5 -2.6)" fill="#0562c1"/>
+    </g>
+    <path id="Path_23161" data-name="Path 23161" d="M33.2,60.034a1.643,1.643,0,0,1-1.165-.5L26.5,54a1.677,1.677,0,0,1,2.371-2.371L33.238,56l9.9-9.9a1.677,1.677,0,0,1,2.371,2.371L34.4,59.577A1.812,1.812,0,0,1,33.2,60.034Z" transform="translate(-2647.05 560.454)" fill="#0562c1"/>
+  </g>
+</svg>
