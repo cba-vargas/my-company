@@ -1,8 +1,8 @@
 {
   "$schema": "https://getcomposer.org/schema.json",
-  "name": "acme/laravel-react-starter",
+  "name": "hiroshima/hiroshima",
   "type": "project",
-  "description": "Reusable Laravel 12, React 19 and Docker starter template.",
+  "description": "Hiroshima Laravel 12, React 19 and Docker starter template.",
   "keywords": [
     "laravel",
     "react",

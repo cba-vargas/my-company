@@ -17,12 +17,12 @@ export default function Welcome() {
           </div>
 
           <h1 className="mt-6 max-w-4xl text-4xl font-black tracking-tight text-slate-950 sm:text-6xl">
-            Laravel Starter Template
+            hiroshima
           </h1>
 
           <p className="mt-5 max-w-3xl text-lg leading-8 text-slate-600">
-            Môi trường Docker chuẩn hóa một lần để Copilot, Claude Code và Codex tập trung vào
-            phát triển tính năng thay vì tự đoán cấu hình hạ tầng.
+            Môi trường Docker chuẩn hóa một lần để Copilot, Claude Code và Codex tập trung vào phát
+            triển tính năng thay vì tự đoán cấu hình hạ tầng.
           </p>
 
           <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">

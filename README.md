@@ -1,6 +1,6 @@
-# Laravel 12 Starter Template
+# hiroshima
 
-Starter Template có thể tái sử dụng cho các dự án Laravel, với môi trường Docker được chuẩn hóa và bộ quy tắc dành cho AI coding agents.
+Hiroshima là một starter template Laravel có thể tái sử dụng cho các dự án, với môi trường Docker được chuẩn hóa và bộ quy tắc dành cho AI coding agents.
 
 ## Stack
 
@@ -46,14 +46,14 @@ bash scripts/setup.sh
 
 Sau khi hoàn tất:
 
-| Dịch vụ | URL / cổng |
-|---|---|
-| Ứng dụng | http://localhost:8080 |
-| Vite HMR | http://localhost:5173 |
-| Mailpit | http://localhost:8025 |
-| phpMyAdmin | http://localhost:8081 |
-| MySQL host port | `33060` |
-| Redis host port | `63790` |
+| Dịch vụ         | URL / cổng            |
+| --------------- | --------------------- |
+| Ứng dụng        | http://localhost:8080 |
+| Vite HMR        | http://localhost:5173 |
+| Mailpit         | http://localhost:8025 |
+| phpMyAdmin      | http://localhost:8081 |
+| MySQL host port | `33060`               |
+| Redis host port | `63790`               |
 
 Thông tin database mặc định nằm trong `.env`.
 
